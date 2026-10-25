@@ -5,7 +5,7 @@
 
 ## 1. 宏观与大周期环境 (Macro & Context)
 - **基本面/消息面**：（本周有什么重磅数据？比如非农、CPI、美联储讲话？）
-- **日线/4H 趋势**：空头  https://www.tradingview.com/x/7pIbILIb/（多头/空头/震荡？关键的分水岭在哪里？）
+- **日线/4H 趋势**：空头  https://www.tradingview.com/x/7pIbILIb/
 - **周线级别图表**：空头[TradingView 链接](https://www.tradingview.com/x/IHjc83uk/)
 
 ## 2. 本周核心关注点位 (Key Levels)
